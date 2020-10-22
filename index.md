@@ -64,11 +64,10 @@ Las bibliotecas escritas en lenguaje C incluyen un administrador de interfaz grÃ
         }
     }<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
     
-    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
   chat-title="sistema-op"
   agent-id="85b4421d-8d88-4152-af5f-719d10be1923"
   language-code="es"
 ></df-messenger>
-   
